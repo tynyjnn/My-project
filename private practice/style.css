@@ -1,0 +1,60 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-size: 16px;
+    font-family:"Heebo" ;
+    margin: 0;
+}
+.hamburger{
+    display: none;
+}
+.header{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 30px 0;
+}
+.header-ul{
+    margin: 0 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+.li-css{
+    color:white;
+}
+.header-ul >a{
+    display: inline;
+    padding: 0 15px;
+    font-size: 1.25rem;
+    color: white;
+}
+*{
+    background-color: purple;
+    
+}
+.h1-heading{
+    color: white;
+    text-align: center;
+}
+.p1-paragraph{
+    color: white;
+    text-align: center;
+}
+.insight{
+    color: blueviolet;
+}
+.header-ul{
+    text-align: end;
+}
+
+.emeka__image {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+}
+.p1-paragraph{
+    font-size: x-small;
+}
+.
